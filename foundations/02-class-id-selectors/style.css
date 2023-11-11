@@ -1,0 +1,17 @@
+/* styles.css */
+
+.odd {
+	background-color:rgb(255,150,150);
+	font: Verdana, DejaVu Sans, sans-serif;
+}
+.div2{
+	color: rgb(150,200,255); font-size: 36px;
+}
+.three{ 
+	font-size:24px;
+}
+.div4{ 
+	background-color:rgb(100,255,190);
+	font-size: 24px;
+	font-weight: bold;
+)
